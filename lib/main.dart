@@ -80,7 +80,6 @@ class _MyAppState extends State<MyApp> {
 
       ),
       body: pages.elementAt(_currentIndex),
-
     );
   }
 }
